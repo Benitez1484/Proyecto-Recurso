@@ -1,0 +1,100 @@
+C:\Users\crist\Documents\Proyecto de Sistema\Proyectodesustemas\Tareas\bin\Release\Tareas.exe.config
+C:\Users\crist\Documents\Proyecto de Sistema\Proyectodesustemas\Tareas\bin\Release\Tareas.exe
+C:\Users\crist\Documents\Proyecto de Sistema\Proyectodesustemas\Tareas\bin\Release\Tareas.pdb
+C:\Users\crist\Documents\Proyecto de Sistema\Proyectodesustemas\Tareas\bin\Release\MetroFramework.Design.dll
+C:\Users\crist\Documents\Proyecto de Sistema\Proyectodesustemas\Tareas\bin\Release\MetroFramework.dll
+C:\Users\crist\Documents\Proyecto de Sistema\Proyectodesustemas\Tareas\bin\Release\MetroFramework.Fonts.dll
+C:\Users\crist\Documents\Proyecto de Sistema\Proyectodesustemas\Tareas\obj\Release\Tareas.csproj.AssemblyReference.cache
+C:\Users\crist\Documents\Proyecto de Sistema\Proyectodesustemas\Tareas\obj\Release\Tareas.PantallaTareas.resources
+C:\Users\crist\Documents\Proyecto de Sistema\Proyectodesustemas\Tareas\obj\Release\Tareas.Properties.Resources.resources
+C:\Users\crist\Documents\Proyecto de Sistema\Proyectodesustemas\Tareas\obj\Release\Tareas.csproj.GenerateResource.cache
+C:\Users\crist\Documents\Proyecto de Sistema\Proyectodesustemas\Tareas\obj\Release\Tareas.csproj.CoreCompileInputs.cache
+C:\Users\crist\Documents\Proyecto de Sistema\Proyectodesustemas\Tareas\obj\Release\Tareas.csproj.CopyComplete
+C:\Users\crist\Documents\Proyecto de Sistema\Proyectodesustemas\Tareas\obj\Release\Tareas.exe
+C:\Users\crist\Documents\Proyecto de Sistema\Proyectodesustemas\Tareas\obj\Release\Tareas.pdb
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading\Tareas\bin\Release\Tareas.exe.config
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading\Tareas\bin\Release\Tareas.exe
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading\Tareas\bin\Release\Tareas.pdb
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading\Tareas\bin\Release\MetroFramework.Design.dll
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading\Tareas\bin\Release\MetroFramework.dll
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading\Tareas\bin\Release\MetroFramework.Fonts.dll
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading\Tareas\obj\Release\Tareas.csproj.AssemblyReference.cache
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading\Tareas\obj\Release\Tareas.PantallaTareas.resources
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading\Tareas\obj\Release\Tareas.Properties.Resources.resources
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading\Tareas\obj\Release\Tareas.csproj.GenerateResource.cache
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading\Tareas\obj\Release\Tareas.csproj.CoreCompileInputs.cache
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading\Tareas\obj\Release\Tareas.csproj.CopyComplete
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading\Tareas\obj\Release\Tareas.exe
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading\Tareas\obj\Release\Tareas.pdb
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia\Tareas\bin\Release\Tareas.exe.config
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia\Tareas\bin\Release\Tareas.exe
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia\Tareas\bin\Release\Tareas.pdb
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia\Tareas\bin\Release\MetroFramework.Design.dll
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia\Tareas\bin\Release\MetroFramework.dll
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia\Tareas\bin\Release\MetroFramework.Fonts.dll
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia\Tareas\obj\Release\Tareas.csproj.AssemblyReference.cache
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia\Tareas\obj\Release\Tareas.PantallaTareas.resources
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia\Tareas\obj\Release\Tareas.Properties.Resources.resources
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia\Tareas\obj\Release\Tareas.csproj.GenerateResource.cache
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia\Tareas\obj\Release\Tareas.csproj.CoreCompileInputs.cache
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia\Tareas\obj\Release\Tareas.csproj.CopyComplete
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia\Tareas\obj\Release\Tareas.exe
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia\Tareas\obj\Release\Tareas.pdb
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia - copia\Tareas\bin\Release\Tareas.exe.config
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia - copia\Tareas\bin\Release\Tareas.exe
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia - copia\Tareas\bin\Release\Tareas.pdb
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia - copia\Tareas\bin\Release\MetroFramework.Design.dll
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia - copia\Tareas\bin\Release\MetroFramework.dll
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia - copia\Tareas\bin\Release\MetroFramework.Fonts.dll
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia - copia\Tareas\obj\Release\Tareas.csproj.AssemblyReference.cache
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia - copia\Tareas\obj\Release\Tareas.PantallaTareas.resources
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia - copia\Tareas\obj\Release\Tareas.Properties.Resources.resources
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia - copia\Tareas\obj\Release\Tareas.csproj.GenerateResource.cache
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia - copia\Tareas\obj\Release\Tareas.csproj.CoreCompileInputs.cache
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia - copia\Tareas\obj\Release\Tareas.csproj.CopyComplete
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia - copia\Tareas\obj\Release\Tareas.exe
+C:\Users\crist\Documents\Proyecto de Sistema\Hola\Proyectodesustemas con loading - copia - copia\Tareas\obj\Release\Tareas.pdb
+C:\Users\Benitez Simón\Desktop\Proyecto-de-Sistemas-Operativos-main\Tareas\bin\Release\Tareas.exe.config
+C:\Users\Benitez Simón\Desktop\Proyecto-de-Sistemas-Operativos-main\Tareas\bin\Release\Tareas.exe
+C:\Users\Benitez Simón\Desktop\Proyecto-de-Sistemas-Operativos-main\Tareas\bin\Release\Tareas.pdb
+C:\Users\Benitez Simón\Desktop\Proyecto-de-Sistemas-Operativos-main\Tareas\bin\Release\MetroFramework.Design.dll
+C:\Users\Benitez Simón\Desktop\Proyecto-de-Sistemas-Operativos-main\Tareas\bin\Release\MetroFramework.dll
+C:\Users\Benitez Simón\Desktop\Proyecto-de-Sistemas-Operativos-main\Tareas\bin\Release\MetroFramework.Fonts.dll
+C:\Users\Benitez Simón\Desktop\Proyecto-de-Sistemas-Operativos-main\Tareas\obj\Release\Tareas.csproj.AssemblyReference.cache
+C:\Users\Benitez Simón\Desktop\Proyecto-de-Sistemas-Operativos-main\Tareas\obj\Release\Tareas.csproj.SuggestedBindingRedirects.cache
+C:\Users\Benitez Simón\Desktop\Proyecto-de-Sistemas-Operativos-main\Tareas\obj\Release\Tareas.Properties.Resources.resources
+C:\Users\Benitez Simón\Desktop\Proyecto-de-Sistemas-Operativos-main\Tareas\obj\Release\Tareas.csproj.GenerateResource.cache
+C:\Users\Benitez Simón\Desktop\Proyecto-de-Sistemas-Operativos-main\Tareas\obj\Release\Tareas.csproj.CoreCompileInputs.cache
+C:\Users\Benitez Simón\Desktop\Proyecto-de-Sistemas-Operativos-main\Tareas\obj\Release\Tareas.csproj.CopyComplete
+C:\Users\Benitez Simón\Desktop\Proyecto-de-Sistemas-Operativos-main\Tareas\obj\Release\Tareas.exe
+C:\Users\Benitez Simón\Desktop\Proyecto-de-Sistemas-Operativos-main\Tareas\obj\Release\Tareas.pdb
+C:\Users\Benitez Simón\Desktop\Proyecto-de-Sistemas-Operativos-main\Tareas\obj\Release\Tareas.Pantalla_Tareas.resources
+C:\Users\Benitez Simón\Desktop\Proyecto Sistema\Tareas\bin\Release\Tareas.exe.config
+C:\Users\Benitez Simón\Desktop\Proyecto Sistema\Tareas\bin\Release\Tareas.exe
+C:\Users\Benitez Simón\Desktop\Proyecto Sistema\Tareas\bin\Release\Tareas.pdb
+C:\Users\Benitez Simón\Desktop\Proyecto Sistema\Tareas\bin\Release\MetroFramework.Design.dll
+C:\Users\Benitez Simón\Desktop\Proyecto Sistema\Tareas\bin\Release\MetroFramework.dll
+C:\Users\Benitez Simón\Desktop\Proyecto Sistema\Tareas\bin\Release\MetroFramework.Fonts.dll
+C:\Users\Benitez Simón\Desktop\Proyecto Sistema\Tareas\obj\Release\Tareas.csproj.AssemblyReference.cache
+C:\Users\Benitez Simón\Desktop\Proyecto Sistema\Tareas\obj\Release\Tareas.csproj.SuggestedBindingRedirects.cache
+C:\Users\Benitez Simón\Desktop\Proyecto Sistema\Tareas\obj\Release\Tareas.Pantalla_Tareas.resources
+C:\Users\Benitez Simón\Desktop\Proyecto Sistema\Tareas\obj\Release\Tareas.Properties.Resources.resources
+C:\Users\Benitez Simón\Desktop\Proyecto Sistema\Tareas\obj\Release\Tareas.csproj.GenerateResource.cache
+C:\Users\Benitez Simón\Desktop\Proyecto Sistema\Tareas\obj\Release\Tareas.csproj.CoreCompileInputs.cache
+C:\Users\Benitez Simón\Desktop\Proyecto Sistema\Tareas\obj\Release\Tareas.csproj.CopyComplete
+C:\Users\Benitez Simón\Desktop\Proyecto Sistema\Tareas\obj\Release\Tareas.exe
+C:\Users\Benitez Simón\Desktop\Proyecto Sistema\Tareas\obj\Release\Tareas.pdb
+L:\Mi unidad\Todo\2023\- 6to_semetre\sistema_operativos\Proyecto Final\Proyecto Sistema\Tareas\bin\Release\Tareas.exe.config
+L:\Mi unidad\Todo\2023\- 6to_semetre\sistema_operativos\Proyecto Final\Proyecto Sistema\Tareas\bin\Release\Tareas.exe
+L:\Mi unidad\Todo\2023\- 6to_semetre\sistema_operativos\Proyecto Final\Proyecto Sistema\Tareas\bin\Release\Tareas.pdb
+L:\Mi unidad\Todo\2023\- 6to_semetre\sistema_operativos\Proyecto Final\Proyecto Sistema\Tareas\bin\Release\MetroFramework.Design.dll
+L:\Mi unidad\Todo\2023\- 6to_semetre\sistema_operativos\Proyecto Final\Proyecto Sistema\Tareas\bin\Release\MetroFramework.dll
+L:\Mi unidad\Todo\2023\- 6to_semetre\sistema_operativos\Proyecto Final\Proyecto Sistema\Tareas\bin\Release\MetroFramework.Fonts.dll
+L:\Mi unidad\Todo\2023\- 6to_semetre\sistema_operativos\Proyecto Final\Proyecto Sistema\Tareas\obj\Release\Tareas.csproj.AssemblyReference.cache
+L:\Mi unidad\Todo\2023\- 6to_semetre\sistema_operativos\Proyecto Final\Proyecto Sistema\Tareas\obj\Release\Tareas.Pantalla_Tareas.resources
+L:\Mi unidad\Todo\2023\- 6to_semetre\sistema_operativos\Proyecto Final\Proyecto Sistema\Tareas\obj\Release\Tareas.Properties.Resources.resources
+L:\Mi unidad\Todo\2023\- 6to_semetre\sistema_operativos\Proyecto Final\Proyecto Sistema\Tareas\obj\Release\Tareas.csproj.GenerateResource.cache
+L:\Mi unidad\Todo\2023\- 6to_semetre\sistema_operativos\Proyecto Final\Proyecto Sistema\Tareas\obj\Release\Tareas.csproj.CoreCompileInputs.cache
+L:\Mi unidad\Todo\2023\- 6to_semetre\sistema_operativos\Proyecto Final\Proyecto Sistema\Tareas\obj\Release\Tareas.csproj.Up2Date
+L:\Mi unidad\Todo\2023\- 6to_semetre\sistema_operativos\Proyecto Final\Proyecto Sistema\Tareas\obj\Release\Tareas.exe
+L:\Mi unidad\Todo\2023\- 6to_semetre\sistema_operativos\Proyecto Final\Proyecto Sistema\Tareas\obj\Release\Tareas.pdb
